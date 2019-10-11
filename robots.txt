@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://toohieyoco.fyntech.dk/sitemap.xml
